@@ -2,7 +2,7 @@
 - 👀 I’m interested in making discord bots
 - 🌱 I’m currently learning discord.js
 - 💞️ I’m looking to collaborate on my friend's bot
-- 📫 How to reach me: || Windows 11 ||#3775 on Discord or email me at realguybackup@gmail.com
+- 📫 How to reach me: @praneethprogame on Discord or email me at realguybackup@gmail.com
 
 <!---
 realguystuff/realguystuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
